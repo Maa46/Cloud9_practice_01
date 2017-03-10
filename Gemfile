@@ -30,6 +30,8 @@ gem 'spring',        group: :development
 gem 'therubyracer'
 gem 'less-rails'
 gem 'twitter-bootstrap-rails'
+gem 'omniauth', '~> 1.2.1'
+gem 'omniauth-twitter', '~> 1.0.1'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
